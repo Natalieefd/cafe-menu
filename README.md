@@ -3,7 +3,7 @@
 <a name="top"></a>
 
 <div align="center">
-  <img src="image/landing-page-icon.png" alt="landing-page-icon" width="170" height="100">
+  <img src="image/landing-page-icon.png" alt="page-icon" width="170" height="100">
 
   <h3>FLUFFY CAFE MENU'S WEBSITE</h3>
   <p>
