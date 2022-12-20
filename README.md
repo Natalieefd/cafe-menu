@@ -37,6 +37,48 @@
   <p align="right">⋮<a href="#top"> Back to top </a>⋮</p>
 </div>
 
+<div>
+  <hr>
+  <h3 align="center">Website Feature Information</h3>
+  <br><br>
+  <p>
+    <b>Admin Feature</b>
+    <ul>
+      <li>Admin Login</li>
+      <li>Admin Dashboard</li>
+      <li>CRUD Staff Account</li>
+      <li>CRUD Menu</li>
+      <li>View Menu</li>
+      <li>View Staff Attendace</li>
+      <li>View Customer Account</li>
+      <li>Logout</li>
+    </ul>
+    <br><br>
+    <b>Staff Feature</b>
+    <ul>
+      <li>Staff Login</li>
+      <li>Staff Home Page</li>
+      <li>Online Absence Attendace</li>
+      <li>View Menu</li>
+      <li>Logout</li>
+    </ul>
+    <br><br>
+    <b>Customer Feature</b>
+    <ul>
+      <li>Customer Login</li>
+      <li>Add New Account</li>
+      <li>Customer Home Page</li>
+      <li>View Menu</li>
+      <li>Add Menu Favorite</li>
+      <li>Delete Menu Favorite</li>
+      <li>View Menu Favorite</li>
+      <li>Logout</li>
+    </ul>
+  </p>
+  <br><br>
+  <p align="right">⋮<a href="#top"> Back to top </a>⋮</p>
+</div>
+
 <div align="center">
   <hr>
   <h3><b>Website Preview</b></h3>
@@ -65,7 +107,34 @@
   <br><br>
     <i>*Untuk masuk ke page login staff klik teks 'LOGIN' pada page login customer</i>
   </p><img src="image/login-staff-step.png" alt="Login Staff Step" width="71%">
+  <br><br><br>
+  <p>
+    ———————————————————————————————————<br>
+    <b><i>Login Admin Page</i></b><br>
+    ———————————————————————————————————<br>
+  </p>
+  <img src="image/login-admin.jpg" alt="Login admin Page">
+  <p>
+  <br><br>
+    <i>*Untuk masuk ke page login admin klik teks 'LOGIN' pada page login staff</i>
+  </p><img src="image/login-admin-step.png" alt="Login Admin Step" width="71%">
+  <br><br><br>
+  <p>
+    ———————————————————————————————————<br>
+    <b><i>Staff Home Page</i></b><br>
+    ———————————————————————————————————<br>
+  </p>
+  <img src="image/staff-page.jpg" alt="Staff Home Page">
+  <br><br><br>
+  <p>
+    ———————————————————————————————————<br>
+    <b><i>Admin Home Page</i></b><br>
+    ———————————————————————————————————<br>
+  </p>
+  <img src="image/admin-page.jpg" alt="Admin Home Page">
+  <br>
 </div>
 
 <br><br>
 <p align="right">⋮<a href="#top"> Back to top </a>⋮</p>
+<hr>
