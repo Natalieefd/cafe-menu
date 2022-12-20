@@ -54,6 +54,17 @@
     ———————————————————————————————————<br>
   </p>
   <img src="image/login-customer.jpg" alt="Login Customer Page">
+  <br><br><br>
+  <p>
+    ———————————————————————————————————<br>
+    <b><i>Login Staff Page</i></b><br>
+    ———————————————————————————————————<br>
+  </p>
+  <img src="image/login-staff.jpg" alt="Login Staff Page">
+  <p>
+  <br><br>
+    <i>*Untuk masuk ke page login staff klik teks 'LOGIN' pada page login customer</i>
+  </p><img src="image/login-staff-step.png" alt="Login Staff Step" width="71%">
 </div>
 
 <br><br>
